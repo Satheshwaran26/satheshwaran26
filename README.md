@@ -29,9 +29,7 @@ From crafting **responsive UIs** to building **powerful backend systems**, I thr
 - Exploring **AI integrations** for web & mobile platforms  
 
 ⚡ **Fun Fact:** I believe **good design is invisible** but **great user experience is unforgettable**.  
-
 ---
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sathes-hwaran-v" target="_blank">
